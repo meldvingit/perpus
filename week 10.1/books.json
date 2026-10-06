@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "judul": "Laskar Pelangi",
+    "penulis": "Andrea Hirata",
+    "tahun": "2005",
+    "stok": 4
+  },
+  {
+    "id": 2,
+    "judul": "Bumi",
+    "penulis": "Tere Liye",
+    "tahun": "2014",
+    "stok": 3
+  },
+  {
+    "id": 3,
+    "judul": "Atomic Habits",
+    "penulis": "James Clear",
+    "tahun": "2018",
+    "stok": 4
+  },
+  {
+    "id": 4,
+    "judul": "cantik itu luka",
+    "penulis": "Eka kurniawan",
+    "tahun": "2010",
+    "stok": 4
+  },
+  {
+    "id": 5,
+    "judul": "Gadis Kretek",
+    "penulis": "Ratih Kumala",
+    "tahun": "2015",
+    "stok": 2
+  },
+  {
+    "id": 6,
+    "judul": "Ronggeng Dukuh Paruk",
+    "penulis": "Ahmad Tohari",
+    "tahun": "2006",
+    "stok": 6
+  }
+]
